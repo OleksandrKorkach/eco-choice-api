@@ -1,0 +1,6 @@
+{
+    "Auth": true,
+    "Admin": true,
+    "Core": true,
+    "Website": true
+}
